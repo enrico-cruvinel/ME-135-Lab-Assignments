@@ -1,5 +1,4 @@
 # ME 135 Lab Assignments
-ME 135 Lab Assignments
 
 ME 135 (Design of Microprocessor-Based Mechanical Systems) provides preparation for the conceptual design 
 and prototyping of mechanical systems that use microprocessors to control machine activities, acquire and analyze data,
